@@ -3,7 +3,7 @@
 
 ## These functions are written for the assignment 2 of JHU R programming course.
 ## Write a short comment describing this function
-
+## Function to get the input matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
